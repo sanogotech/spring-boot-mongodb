@@ -1,4 +1,4 @@
-# spring-boot-mongodb
+# spring-boot-mongodb Embeded MongoDB ***
 This repository contains a Spring Boot example project for MongoDB.
 
 For a code review of this repo, see my related [blog post](https://springframework.guru/3402-2/).
